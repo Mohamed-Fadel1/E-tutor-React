@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    font-family: sans-serif;
+}
+
+body , html {
+    scroll-behavior: smooth;
+}
+
+.btn-primary {
+    @apply px-7 py-3 bg-primary rounded-full font-bold shadow-lg hover:scale-110 
+}
