@@ -18,9 +18,9 @@ const NavBar = () => {
                 <MdComputer className=' text-2xl lg:text-3xl text-secondary font-bold'/>
                 <p className=' text-2xl lg:text-2xl font-bold'>E-Tutor</p>
             </div>
-             
-            <ul className=' gap-10 hidden lg:flex '>
             <DarkMode/>
+            <ul className=' gap-10 hidden lg:flex '>
+          
               {NavBarMenu.map((item) => (
                  <li className=' text-lg font-semibold hover:text-blue-600 transition-all duration-200 cursor-pointer' key={item.id}>
     

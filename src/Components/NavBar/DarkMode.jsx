@@ -26,12 +26,12 @@ const DarkMode = () => {
         <img onClick={()=>setTheme("dark")} 
         src= {lightImg}  
         alt="lightImg" 
-        className=' cursor-pointer w-14 shadow-lg  ' />
+        className=' cursor-pointer w-14 shadow-lg ms-20 lg:ms-0  ' />
     )  :(
         <img onClick={()=>setTheme("light")}
          src= {darkImg}  
          alt="lightImg" 
-         className=' cursor-pointer w-14 shadow-lg  ' />
+         className=' cursor-pointer w-14 shadow-lg ms-20 lg:ms-0  ' />
     )  } 
     </div>
   )
