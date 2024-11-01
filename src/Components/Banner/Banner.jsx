@@ -5,8 +5,8 @@ import { motion } from 'framer-motion'
 const Banner = () => {
   return (
     <>
-      <div  className='bg-gray-50'>
-        <div id='about' className="container flex flex-col md:flex-row items-center overflow-hidden py-20 ">
+      <div>
+        <div id='about' className="container flex flex-col md:flex-row items-center overflow-hidden py-20 space-y-5 md:space-y-0 ">
 
             <div className='md:w-1/2'>
                 <motion.img 

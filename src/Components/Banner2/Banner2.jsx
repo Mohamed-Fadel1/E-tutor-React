@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 const Banner2 = () => {
   return (
     <>
-        <div className='bg-gray-50'>
+        <div>
         <div className="container py-20 flex flex-col-reverse md:flex-row justify-between gap-6 lg:gap-36 items-center overflow-hidden ">
 
             <div className='md:w-1/2  text-center md:text-left '>

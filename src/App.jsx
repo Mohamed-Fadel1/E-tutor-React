@@ -37,7 +37,9 @@ const App = () => {
           <a href="#home"><FaHandPointUp className='text-primary' /></a>
         </span>
       )}
-      <NavBar />
+      
+    <div className='bg-gray-50 dark:bg-slate-900 dark:text-gray-200'>
+    <NavBar />
       <InfoNavBar />
       <Hero />
       <NumberCounter />
@@ -47,6 +49,7 @@ const App = () => {
       <Subject />
       <Testimonials />
       <Footer />
+    </div>
     </>
   );
 }

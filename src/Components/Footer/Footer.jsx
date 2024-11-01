@@ -19,7 +19,7 @@ const Footer = () => {
   return (
     <div style={footerImg}>
       <div className='bg-primary/5'>
-      <div className="container grid grid-cols-2 md:grid-cols-4 pt-20 pb-32 gap-20">
+      <div className="container grid grid-cols-2 md:grid-cols-4 pt-20 pb-32 gap-20 text-black">
 
         <div className='col-span-2 md:col-span-1 px-4'>
             <div className='flex items-center gap-3 mb-8'>

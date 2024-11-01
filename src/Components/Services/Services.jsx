@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 const Services = () => {
   return (
-    <div id='services' className='bg-gray-100 overflow-hidden'>
+    <div id='services' className='overflow-hidden'>
       <div className="container py-24 text-center">
         <div className=' mb-8 md:mb-10 md:w-1/2 md:m-auto'>
           <h4 className='text-lg font-bold text-orange-600 mb-4'>Why Choose us</h4>
@@ -29,7 +29,7 @@ const Services = () => {
                   {ele.icon}
                 </div>
                 <div className='text-left'>
-                  <h2 className='font-semibold py-5'>{ele.title}</h2>
+                  <h2 className='font-semibold text-black py-5'>{ele.title}</h2>
                   <p className='text-gray-500'>{ele.sub}</p>
                 </div>
               </motion.div>
