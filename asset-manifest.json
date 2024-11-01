@@ -1,21 +1,23 @@
 {
   "files": {
-    "main.css": "/E-tutor-React/static/css/main.b8ab3510.css",
-    "main.js": "/E-tutor-React/static/js/main.c236b723.js",
+    "main.css": "/E-tutor-React/static/css/main.a0278b1f.css",
+    "main.js": "/E-tutor-React/static/js/main.5e291836.js",
     "static/media/banner2-BMWB7nzP.png": "/E-tutor-React/static/media/banner2-BMWB7nzP.e705c2d993f6e5f86ec6.png",
     "static/media/hero-Dv8sjFKx.png": "/E-tutor-React/static/media/hero-Dv8sjFKx.4455f502856605318572.png",
     "static/media/banner1-ChWN6Q7z.png": "/E-tutor-React/static/media/banner1-ChWN6Q7z.27a0ee9c930c52437f5b.png",
+    "static/media/dark-mode-button.png": "/E-tutor-React/static/media/dark-mode-button.c5b620c1550b3c201b56.png",
+    "static/media/light-mode-button.png": "/E-tutor-React/static/media/light-mode-button.9ed4504ff522dfde699a.png",
     "static/media/footer.jpg": "/E-tutor-React/static/media/footer.ab8aad44bdfc30cfb107.jpg",
     "static/media/slick.svg": "/E-tutor-React/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/E-tutor-React/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/E-tutor-React/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/E-tutor-React/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/E-tutor-React/index.html",
-    "main.b8ab3510.css.map": "/E-tutor-React/static/css/main.b8ab3510.css.map",
-    "main.c236b723.js.map": "/E-tutor-React/static/js/main.c236b723.js.map"
+    "main.a0278b1f.css.map": "/E-tutor-React/static/css/main.a0278b1f.css.map",
+    "main.5e291836.js.map": "/E-tutor-React/static/js/main.5e291836.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8ab3510.css",
-    "static/js/main.c236b723.js"
+    "static/css/main.a0278b1f.css",
+    "static/js/main.5e291836.js"
   ]
 }
